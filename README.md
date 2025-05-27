@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Computer Science at CESAR School<br>In love with Game Design<br>Eager to learn new technologies<br><br>
+📖I'm currently studying Computer Science at CESAR School<br>🎮In love with Game Design<br>🔎Eager to learn new technologies<br><br>
 
 
 ## 🌐 Socials:
