@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently studying computer science **at CESAR School**
 
+- 🖲️Interested in game development
+
 - 💬 Ask me about **Django and OOP**
 
 - 📫 How to reach me **telmomcalheiros@gmail.com**
