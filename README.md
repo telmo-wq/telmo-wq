@@ -1,8 +1,10 @@
-## 💜 Hello, I'm Telmo Melo!
+## 🚀 Hello, I'm Telmo Melo!
 
-Developing questionable software and helpful technology
+I'm a CS major at CESAR School always trying to improve myself and learning new skills
 
-🔭 Now studying OOP and Web Dev
+🔭 Now studying Java and OS
+
+🔬 Trying to create technology that can help other people
 
 💬 Ask me about Python, C and Django
 
