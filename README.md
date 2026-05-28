@@ -45,16 +45,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
----
-
-## 🚀 Some of my recent projects
-
-| Projeto | Descrição | Tecnologia |
-|---|---|---|
-| [🚀 Space Invaders PIF](https://github.com/telmo-wq/Space_Invaders_PIF) | Fan remake of the classic Space Invaders arcade | `C` |
-| [⚛️ Algoritmo de Grover](https://github.com/telmo-wq/algoritmo-grover) | Quantum algorythm implemented in Qiskit| `Python / Jupyter` |
-| [🐚 Pluto-shell](https://github.com/telmo-wq/Pluto-shell) | A simple shell prototype | `C` |
-| [🍳 Wondercooking](https://github.com/AnzinFelipe/Wondercooking) | Web app for research and sharing food recipes | `JavaScript` |
 
 
 
