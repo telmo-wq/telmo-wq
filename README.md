@@ -1,42 +1,63 @@
-## 🚀 Hello, I'm Telmo Melo!
+<div align="center">
 
-I'm a CS major at CESAR School always trying to improve myself and learning new skills
+# Hello, I'm Telmo Melo! 👋
 
-🔭 Now studying Java and OS
+**Junior Programmer · Computer Science student 🇧🇷**
 
-🔬 Trying to create technology that can help other people
+*Always trying to build the best things possible*
 
-💬 Ask me about Python, C and Django
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telmomelo/)
+[![Instagram](https://img.shields.io/badge/Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/telmowq/)
+[![GitHub followers](https://img.shields.io/github/followers/telmo-wq?style=flat-square&color=6e40c9&label=Seguidores)](https://github.com/telmo-wq?tab=followers)
 
----
-
-## 🚀 My Skills
-
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown"/></code>
+</div>
 
 ---
 
-## Make contact
+## 🙋‍♂️ About me
 
-<p align="left">
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/telmomelo/" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/telmomeloc/" alt="Instagram"/></a>
-</p>
+- 🎓 **CS major** at **CESAR School**
+- 🔭 Now studying **Java**, **Operating Systems** and **Qiskit**
+- 🔬 Trying to improve peoples' lives with technology
+
+---
+
+## 🛠️ My favourite tools
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Other tools**
+
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+---
+
+## 🚀 Some of my recent projects
+
+| Projeto | Descrição | Tecnologia |
+|---|---|---|
+| [🚀 Space Invaders PIF](https://github.com/telmo-wq/Space_Invaders_PIF) | Fan remake of the classic Space Invaders arcade | `C` |
+| [⚛️ Algoritmo de Grover](https://github.com/telmo-wq/algoritmo-grover) | Quantum algorythm implemented in Qiskit| `Python / Jupyter` |
+| [🐚 Pluto-shell](https://github.com/telmo-wq/Pluto-shell) | A simple shell prototype | `C` |
+| [🍳 Wondercooking](https://github.com/AnzinFelipe/Wondercooking) | Web app for research and sharing food recipes | `JavaScript` |
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=telmo-wq&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=telmo-wq&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=telmo-wq&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
