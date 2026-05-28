@@ -46,7 +46,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 
-
+---
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
