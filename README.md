@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ My favourite tools
+## 🛠️ Things I like to work with
 
 **Languages**
 
