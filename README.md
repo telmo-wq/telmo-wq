@@ -44,8 +44,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-F37626?style=flat-square&logo=qiskit&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-F37626?style=flat-square&logo=Linux&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-7952B3?style=flat-square&logo=qiskit&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-181717?style=flat-square&logo=Linux&logoColor=white)
+![Raylib](https://img.shields.io/badge/Raylib-F37626?style=flat-square&logo=raylib&logoColor=white)
 
 
 
